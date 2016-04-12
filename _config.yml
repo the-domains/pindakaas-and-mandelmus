@@ -2,6 +2,7 @@ name: 'pindakaas&mandelmus'
 favicon: null
 layout_spectrum: 0.5110318465158343
 typography_spectrum: 0.8039860147982836
+title: 'Pindakaas & Mandelmus'
 cta:
   domain: null
   bucket: null
