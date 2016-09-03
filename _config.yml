@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Christian
+    url: 'https://www.facebook.com/christian.langenegger'
+    type: external
 favicon: null
 title: Pindakaas & Mandelmus
 description: A fantastical couple's adventures across the plane
