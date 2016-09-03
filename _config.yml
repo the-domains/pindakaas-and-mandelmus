@@ -1,20 +1,4 @@
-name: 'pindakaas&mandelmus'
-favicon: null
-layout_spectrum: 0.5110318465158343
 typography_spectrum: 0.8039860147982836
-title: 'Pindakaas & Mandelmus'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9028099903371185
   saturation: 0.5115325499791652
   rhythmicContrast: 0.9609349272213876
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5110318465158343
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: pindakaas&mandelmus
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Pindakaas & Mandelmus
+description: A fantastical couple's adventures across the plane
 purpose: []
